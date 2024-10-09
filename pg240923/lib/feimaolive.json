@@ -1,6 +1,8 @@
 [
-{"name":"index","url":"https://live.fanmingming.com/tv/m3u/global.m3u"},
-{"name":"itv","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u"},
+{"name":"索引","url":"https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/index.m3u"},
+{"name":"itv","url":"https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/itv.m3u"},
 {"name":"IPV6","url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u"},
+{"name":"没魔化看个球","url":"http://www.stream-link.org/stream-link.m3u"},
+{"name":"失效了再补","url":"http://live.214728327.xyz:520/live.php"},
 {"name":"IPV6备份","url":"https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u"}
 ]
