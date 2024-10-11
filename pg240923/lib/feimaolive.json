@@ -1,8 +1,6 @@
 [
-{"name":"索引","url":"https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/index.m3u"},
-{"name":"itv","url":"https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/itv.m3u"},
-{"name":"IPV6","url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u"},
-{"name":"没魔化看个球","url":"http://www.stream-link.org/stream-link.m3u"},
-{"name":"失效了再补","url":"http://live.214728327.xyz:520/live.php"},
-{"name":"IPV6备份","url":"https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u"}
+{"name":"索引","url":"https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u"},
+{"name":"尽量IPV6","url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u"},
+{"name":"要魔法，不要多刷新","url":"http://www.stream-link.org/stream-link.m3u"},
+{"name":"港澳台大陆，不定期失效","url":"http://live.214728327.xyz:520/live.php"}
 ]
